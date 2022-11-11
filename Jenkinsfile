@@ -12,7 +12,6 @@ pipeline{
                 echo 'Executing program'
                 sh './main'
             }
-        }
-        
+        }   
     }
 }
