@@ -1,4 +1,6 @@
 #include <stdio.h>
+
+// code for factorial of a number
 int main()
 {
     int i, fact = 1, number = 3;
